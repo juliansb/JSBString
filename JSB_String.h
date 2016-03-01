@@ -14,7 +14,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int JSB_StrLen (char *cCadena);
+nt JSB_strLen (char *cCadena);
 int JSB_StrPos(char *cCadena, char *cLimitador,int nInicio);
 int JSB_StrCount (char *cCadena, char *cLimitador,int nInicio);
 char* JSB_ExtraeLinea(char *cTexto, char *cLimitador, int nLinea);

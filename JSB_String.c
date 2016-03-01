@@ -130,7 +130,7 @@ char* JSB_ExtraeLinea(char *cTexto, char *cLimitador, int nLinea){
 *   char cCadena[]="Hola Caracola \n Hola Mundo \n Adios Caracola \n Adios Mundo";
 *
 *   int nLongitud = JSB_StrLen (cCadena);
-**
+*
 * Resultado:
 *
 *   nLongitud = 57 

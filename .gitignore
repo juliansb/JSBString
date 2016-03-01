@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# dOXY FILES
+Doxygen
+Doxyfile
