@@ -16,7 +16,7 @@
 //-------------------------------------------------------
 
 /**
- * \mainpage JSBString.o
+ * \mainpage JSBString
  *
  * \section introduccion_seccion Introduccion
  *
